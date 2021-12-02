@@ -1,7 +1,7 @@
 <div>
 ### Olá, sou Paulo Henrique 👋 
   
- - 🔭  Desenvolvedor de Front-End
+ - 🔭  Desenvolvedor Front-End
 
 <!--
 

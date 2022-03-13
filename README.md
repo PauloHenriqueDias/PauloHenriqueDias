@@ -38,5 +38,5 @@
   <a href="https://www.linkedin.com/in/paulo-henrique-dias-507a44141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   </div>
   
-  <!-- ![Snake animation](https://github.com/PauloHenriqueDias/blob/output/github-contribution-grid-snake.svg)-->
+  <!-- ![Snake animation](https://github.com/PauloHenriqueDias/Portfolio/blob/master/github-contribution-grid-snake.svg)-->
    

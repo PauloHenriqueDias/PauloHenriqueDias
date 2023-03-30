@@ -2,6 +2,7 @@
 ### Olá, sou Paulo Henrique 👋 
   
  - 🔭  Desenvolvedor Front-End Jr.
+ - 🌱 Estudante de QA
 
 <!--
 
